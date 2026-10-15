@@ -1,0 +1,17 @@
+{
+  "PollSeconds": 5,
+  "ConfirmationSeconds": 5,
+  "ConfirmationMaxAgeSeconds": 60,
+  "StableRecheckSeconds": 600,
+  "MinimumChangeIntervalSeconds": 60,
+  "RequestTimeoutSeconds": 8,
+  "FailureBackoffSeconds": 30,
+  "MaxBackoffSeconds": 900,
+  "GeoCacheSeconds": 21600,
+  "EchoDailyLimit": 1000,
+  "GeoDailyLimit": 200,
+  "LogMaxBytes": 1048576,
+  "LogArchives": 4,
+  "ClashConfigDirectory": "",
+  "RequireTwoGeoProviders": true
+}
